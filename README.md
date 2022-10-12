@@ -3,10 +3,6 @@
 </div>  
   
 
-  
-- 🔭 I have been working on ROS based path planning. I have been realizating my works on Autonomous Mobile Robot (AMR) that mine designed.  
-- 🌱 I’m currently learning QtDesigner, MySQL, Python.  
- 
 
 
 <h1 align="center">Hi 👋, I'm Onur Yozcu</h1>
