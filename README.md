@@ -3,7 +3,6 @@
 </div>  
   
 
-#### *I am Bilal from Turkey and am a PhD student at mechatronics engineering.*  
   
 - 🔭 I have been working on ROS based path planning. I have been realizating my works on Autonomous Mobile Robot (AMR) that mine designed.  
 - 🌱 I’m currently learning QtDesigner, MySQL, Python.  
@@ -34,7 +33,7 @@
 <a href="https://github.com/onuryozcu" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.linkedin.com/in/bilal-g%C3%BCrevin-16b54g/" target="_blank">
+<a href="https://www.linkedin.com/in/onur-yozcu-7474ba16a/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
 </div>  
