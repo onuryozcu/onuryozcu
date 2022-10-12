@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://github.com/bilal-grvn/bilal-grvn/blob/main/img/1.PNG" align="center" style="width: 120%" />
+<img src="https://media-exp1.licdn.com/dms/image/C4D16AQHGqLb0wo2TUg/profile-displaybackgroundimage-shrink_350_1400/0/1634669035582?e=1671062400&v=beta&t=TgokVfV1_JnPVAYtn6dAM_F6tJz5GUXus8TYWQV3bU0" align="center" style="width: 120%" />
 </div>  
   
 
