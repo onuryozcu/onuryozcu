@@ -1,5 +1,5 @@
 <p align="center">
-    <img width="700" src="https://github.com/onuryozcu/profile/blob/main/Computer%20Vision%20%26%20AI.gif" alt="OBJECT-MEASUREMENT-OPENCV">
+    <img width="920" src="https://github.com/onuryozcu/profile/blob/main/Computer%20Vision%20%26%20AI.gif" alt="OBJECT-MEASUREMENT-OPENCV">
 </p>
 
 
