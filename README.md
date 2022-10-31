@@ -1,9 +1,5 @@
-<div align="center">
-<img src="https://media-exp1.licdn.com/dms/image/C4D16AQHGqLb0wo2TUg/profile-displaybackgroundimage-shrink_350_1400/0/1634669035582?e=1671062400&v=beta&t=TgokVfV1_JnPVAYtn6dAM_F6tJz5GUXus8TYWQV3bU0" align="center" style="width: 120%" />
-</div>  
- 
 <p align="center">
-    <img width="800" src="https://github.com/onuryozcu/profile/blob/main/Computer%20Vision%20%26%20AI.gif" alt="OBJECT-MEASUREMENT-OPENCV">
+    <img width="700" src="https://github.com/onuryozcu/profile/blob/main/Computer%20Vision%20%26%20AI.gif" alt="OBJECT-MEASUREMENT-OPENCV">
 </p>
 
 
