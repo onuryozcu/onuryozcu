@@ -3,7 +3,7 @@
 </div>  
  
 <p align="center">
-    <img width="500" src="https://github.com/onuryozcu/Object-Measurement-Opencv/blob/main/object_size_detection.gif" alt="OBJECT-MEASUREMENT-OPENCV">
+    <img width="800" src="https://github.com/onuryozcu/profile/blob/main/Computer%20Vision%20%26%20AI.gif" alt="OBJECT-MEASUREMENT-OPENCV">
 </p>
 
 
