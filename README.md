@@ -4,8 +4,7 @@
 
 
 <p align="center">
-    <img width="920" src="https://github.com/onuryozcu/Object-Seg/blob/main/model_strc.png
-" alt="Mimari">
+    <img width="920" src="https://github.com/onuryozcu/Object-Seg/blob/main/model_strc.png" alt="Mimari">
 </p>
 
 
