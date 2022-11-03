@@ -2,12 +2,10 @@
     <img width="920" src="https://github.com/onuryozcu/profile/blob/main/Computer%20Vision%20%26%20AI.gif" alt="OBJECT-MEASUREMENT-OPENCV">
 </p>
 
-https://github.com/onuryozcu/Object-Seg/blob/main/model_strc.png
-
 
 <p align="center">
     <img width="920" src="https://github.com/onuryozcu/Object-Seg/blob/main/model_strc.png
-" alt="OBJECT-MEASUREMENT-OPENCV">
+" alt="Mimari">
 </p>
 
 
