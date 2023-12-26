@@ -21,7 +21,7 @@
 # MY PROJECTS:
 ## 🚀 Stable Diffusion Model
 <p align="center">
-    <img width="300" src="https://github.com/onuryozcu/stable_diffusion_model_text2video/blob/main/result.gif" alt="Material Bread logo">
+    <img width="400" src="https://github.com/onuryozcu/stable_diffusion_model_text2video/blob/main/result.gif" alt="Material Bread logo">
 </p>
 
 -------------------------------------------------------------------------------------------------------------------------------
@@ -29,7 +29,7 @@
 # FAST-SAM:
 ## 🚀 FAST-SAM Real Time
 <p align="center">
-    <img width="300" src="https://github.com/onuryozcu/FastSAM-RealTime/blob/main/sam_testing.png" alt="Material Bread logo">
+    <img width="400" src="https://github.com/onuryozcu/FastSAM-RealTime/blob/main/sam_testing.png" alt="Material Bread logo">
 </p>
 
 -------------------------------------------------------------------------------------------------------------------------------
@@ -37,7 +37,7 @@
 # Computer Vision:
 ## 🚀 Computer Vision UI
 <p align="center">
-    <img width="300" src="https://github.com/onuryozcu/ComputerVisionWaste/blob/main/main.png" alt="Material Bread logo">
+    <img width="400" src="https://github.com/onuryozcu/ComputerVisionWaste/blob/main/main.png" alt="Material Bread logo">
 </p>
 
 -------------------------------------------------------------------------------------------------------------------------------
@@ -45,7 +45,7 @@
 # Video Analytic YOLOv8 & OpenCV & Qt:
 ## 🚀 VA
 <p align="center">
-    <img width="300" src="https://www.youtube.com/watch?v=lSTAAT9hO18" alt="Material Bread logo">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/lSTAAT9hO18" frameborder="0" allowfullscreen></iframe>
 </p>
 
 -------------------------------------------------------------------------------------------------------------------------------
