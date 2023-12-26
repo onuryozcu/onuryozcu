@@ -46,11 +46,9 @@
 ## 🚀 VA
 <p align="center">
   <a href="https://www.youtube.com/watch?v=lSTAAT9hO18">
-    <img width="560" height="315" src="https://img.youtube.com/vi/lSTAAT9hO18/maxresdefault.jpg">
+    <img width="560" height="315" src="https://github.com/onuryozcu/YOLO_Object_Detection/blob/main/yolo_png.png">
   </a>
 </p>
-
-[![Video Adı](https://img.youtube.com/vi/lSTAAT9hO18/maxresdefault.jpg)](https://www.youtube.com/watch?v=lSTAAT9hO18)
 
 -------------------------------------------------------------------------------------------------------------------------------
 
