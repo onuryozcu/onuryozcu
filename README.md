@@ -21,7 +21,7 @@
 # MY PROJECTS:
 ## 🚀 Stable Diffusion Model
 <p align="center">
-    <img width="600" src="https://github.com/onuryozcu/stable_diffusion_model_text2video/blob/main/result.gif" alt="Material Bread logo">
+    <img width="200" src="https://github.com/onuryozcu/stable_diffusion_model_text2video/blob/main/result.gif" alt="Material Bread logo">
 </p>
 
 ****************************************************************************************************
