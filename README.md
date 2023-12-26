@@ -50,6 +50,7 @@
   </a>
 </p>
 
+[![Video Adı](https://img.youtube.com/vi/lSTAAT9hO18/maxresdefault.jpg)](https://www.youtube.com/watch?v=lSTAAT9hO18)
 
 -------------------------------------------------------------------------------------------------------------------------------
 
