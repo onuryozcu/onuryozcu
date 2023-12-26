@@ -45,8 +45,11 @@
 # Video Analytic YOLOv8 & OpenCV & Qt:
 ## 🚀 VA
 <p align="center">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/lSTAAT9hO18" frameborder="0" allowfullscreen></iframe>
+  <a href="https://www.youtube.com/watch?v=lSTAAT9hO18">
+    <img width="560" height="315" src="https://img.youtube.com/vi/lSTAAT9hO18/maxresdefault.jpg">
+  </a>
 </p>
+
 
 -------------------------------------------------------------------------------------------------------------------------------
 
